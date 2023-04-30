@@ -1,0 +1,19 @@
+.welcome-section{
+  color: blue;
+  background-color: azure;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 600;
+}
+
+
+.navbar{
+  position: fixed;
+  
+}
+
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
