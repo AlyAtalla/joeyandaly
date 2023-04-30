@@ -1,6 +1,6 @@
-.welcome-section{
+#welcome-section{
   color: blue;
-  background-color: azure;
+  background-color:crimson;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-weight: 600;
 }
